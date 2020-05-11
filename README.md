@@ -1,1 +1,2 @@
-# Algorhytm
+Algorithms in go
+
